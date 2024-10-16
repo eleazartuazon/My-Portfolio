@@ -257,6 +257,8 @@ a:hover {
   .fa-brands:hover {
     color: white;
   }
+
+ 
   
   /* BUTTONS */
   
@@ -265,6 +267,7 @@ a:hover {
     justify-content: center;
     gap: 1rem;
   }
+
   
   .btn {
     font-weight: 600;
@@ -331,6 +334,7 @@ a:hover {
 
 .about-pic {
   border-radius: 2rem;
+  margin-top: 2rem;
 }
 
 .details-container {
