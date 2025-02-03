@@ -29,6 +29,5 @@ Welcome to my personal portfolio website! This project showcases my skills, expe
 2. Open `index.html` in your browser or set up a local development server.  
 
 ## 📬 Contact  
-📧 Email: eleazartuazon1d@gmail.com
-
+📧 Email: eleazartuazon1d@gmail.com        
 🔗 LinkedIn: https://www.linkedin.com/in/eleazartuazon/
