@@ -1,4 +1,4 @@
-# My Portfolio 💻🎨  
+# My Portfolio 💻
 
 Welcome to my personal portfolio website! This project showcases my skills, experience, and projects as a **website developer and IT specialist**. It serves as an interactive résumé, highlighting my expertise in **WordPress, front-end and back-end development, and problem-solving**.  
 
