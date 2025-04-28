@@ -16,11 +16,6 @@ Welcome to my personal portfolio website! This project showcases my skills, expe
 - **Back-End:** Node.js
 - **Other Tools:** Vercel (for deployment & hosting), Git & GitHub (for version control), Figma (for UI/UX design)  
 
-## 🚀 Future Improvements  
-- Add animations and interactive elements.  
-- Improve performance and SEO.  
-- Integrate a blog section for tech insights.  
-
 ## 📌 Setup & Installation  
 1. Clone the repository:  
    ```sh  
