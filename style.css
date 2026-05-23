@@ -1,12 +1,22 @@
 /* Base Styles */
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+
 :root {
     --blue: #3b82f6;
     --background: #0a0a0a;
-  }
+}
   
   body {
     font-family: "Space Grotesk", sans-serif;
     -webkit-font-smoothing: antialiased;
+    overflow-x: hidden;
   }
   
   /* Loading Screen */
@@ -222,12 +232,6 @@
     color: #3b82f6;
     transform: scale(1.1);
     transition: color 0.3s ease, transform 0.3s ease;
-  }
-  
-  /* Smooth Scrolling */
-  html {
-    scroll-behavior: smooth;
-
   }
   
   /* Section Animations */
