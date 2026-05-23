@@ -444,11 +444,12 @@ function closeMenu() {
   // add closing class while keeping 'active' so CSS transition can run
   menuOverlay.classList.add('closing');
   hamburger.classList.remove('active');
+  // restore page scrolling immediately so Safari can still scroll to anchor targets
+  document.body.style.overflow = '';
   // after the transition duration, remove active and closing to fully hide
   setTimeout(() => {
     menuOverlay.classList.remove('active');
     menuOverlay.classList.remove('closing');
-    document.body.style.overflow = '';
   }, MENU_CLOSE_DURATION + 20);
 }
 
